@@ -4,13 +4,13 @@ import 'firebase/auth';
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: 'API-KEY',
-  authDomain: 'Auth-Domain',
-  databaseURL: 'database-URL',
-  projectId: 'project-ID',
-  storageBucket: 'storage-Bucket',
-  messagingSenderId: 'messaging-sender-ID',
-  appId: 'app-ID'
+  apiKey: 'XXX',
+  authDomain: 'xxx.firebaseapp.com',
+  databaseURL: 'https://xxx.firebaseio.com',
+  projectId: 'xxx',
+  storageBucket: 'xxx.appspot.com',
+  messagingSenderId: 'xxxxxx',
+  appId: 'XXX'
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
