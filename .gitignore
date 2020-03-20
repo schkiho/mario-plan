@@ -6,6 +6,7 @@
 .pnp.js
 trash.txt
 .vscode/
+/functions/node_modules
 
 # config
 fbConfig.js
